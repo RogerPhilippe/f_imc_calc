@@ -2,6 +2,8 @@
 
 Simples exemplo utilizando Flutter. TextFormFilde, TextField para validação de campos.
 
+![title](https://github.com/RogerPhilippe/f_imc_calc/blob/master/images/Screenshot_validation.png)
+
 ![title](https://github.com/RogerPhilippe/f_imc_calc/blob/master/images/app_screenshot.png)
 
 ## Getting Started
